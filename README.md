@@ -1,4 +1,4 @@
-# Hello There Sir Or Madam
+# Quiz Application
 
 This quiz application is something that really helped me understand not only JavaScript but programming a little more. Later at some point it would be a good idea to have my questions and answers be in a different JavaScript or JSON file.
 
